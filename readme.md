@@ -1,4 +1,4 @@
-# Logica de Programación Parte 2: Conceptos Primordiales
+# Logica de programación Parte 3: Practicando con Juegos y Animaciones
 Curso de Oracle con carga horaria estimada de 8 horas
 
 Este curso abordó los siguientes tópicos:
