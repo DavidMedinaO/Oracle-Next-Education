@@ -41,11 +41,12 @@
     //pantalla.onclick = mostrarMensaje; 
 
     function alterarColor() {
-        alert("Funcionó");
+        
         numColor= numColor + 1;
         if (numColor == 3){
             numColor= 0;
         }
+        alert("Cambio de color a" + colores[numColor]);
         return false;
     }
 
