@@ -1,8 +1,10 @@
-# Repositorio de Curso Oracle Next Education
+# HTML5 y CSS3 parte 1: Mi primera página web
+Curso de Oracle con carga horaria estimada de 8 horas
 
-## Este es un curso de oracle que abarca temas para mejorar la logica de programación
+Este curso abordó los siguientes tópicos:
 
-- Logica de programación Parte 1: Primeros Pasos [Link](https://github.com/DavidMedinaO/Oracle-Next-Education/tree/logica-programacion)
-- Logica de programación Parte 2: Conceptos Primordiales [Link](https://github.com/DavidMedinaO/Oracle-Next-Education/tree/logica-programacion-parte2)
-- Logica de programación Parte 3: Practicando con Juegos y Animaciones [Link](https://github.com/DavidMedinaO/Oracle-Next-Education/tree/logica-programacion-parte3)
-- HTML5 y CSS3 parte 1: Mi primera página web [link]()
+- Aprenda lo que es HTML y CSS
+- Entienda la estructura básica de un archivo HTML
+- Utilice el navegador para inspeccionar elementos
+- Aprenda a definir estilos para elementos usando CSS
+- Desarrolle una página Web desde cero
